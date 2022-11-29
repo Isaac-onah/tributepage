@@ -37,3 +37,8 @@ ul{
 ul li{
     padding-bottom: 20px;
 }
+blockquote {
+    max-width: 560px;
+    margin: 0 auto;
+    text-align: left;
+}
