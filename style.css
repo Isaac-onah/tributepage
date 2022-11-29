@@ -1,4 +1,32 @@
 body{
     background-color: #eee;
 }
+#main {
+    max-width: 100%;
+    margin: auto;
+    padding: 10px;
+}
 
+#title,
+p {
+    text-align: center;
+}
+
+#img-div {
+    background-color: white;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+#image {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-caption,
+#tribute-info {
+    text-align: center;
+    margin: 15px auto;
+}
